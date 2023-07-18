@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/.idea/
+/order-application.iml
+/order-dataaccess.iml
+/order-messaging.iml
+order-service/order-domain/order-domain-core/target/order-domain-core-1.0-SNAPSHOT.jar
+*.lst
+*.jar
